@@ -1,0 +1,3 @@
+C:\Users\NAGIA\source\repos\mongoose\mongoose\obj\Debug\mongoose.njsprojAssemblyReference.cache
+C:\Users\NAGIA\source\repos\mongoose\mongoose\obj\Debug\mongoose.njsproj.CoreCompileInputs.cache
+C:\Users\NAGIA\source\repos\mongoose\mongoose\bin\Microsoft.NodejsTools.WebRole.dll
